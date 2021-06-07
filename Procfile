@@ -1,0 +1,1 @@
+web: gunicorn stepik-demo-str.wsgi
