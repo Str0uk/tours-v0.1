@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-i@v3)qr7%wra&k4$d(6emy^hnjh!emc86!3-58%5je1!s-(u$b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['stepik-demo-str']
 
 STATIC_ROOT = "static"
 
